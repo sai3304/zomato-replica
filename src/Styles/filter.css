@@ -1,0 +1,171 @@
+.heading {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: blue;
+   }  
+   .rectangle {
+    width: 260px;
+    height: 480px;
+    box-shadow: 0 6px 9px 0 brown;
+      padding-left: 10px;
+  }
+   .fooditems {
+    width: 794px;
+      height: 191px;
+      box-shadow: 0 3px 6px 0 brown;
+      margin-bottom: 20px;
+  }
+   .filter {
+    font-family: Poppins;
+      font-size: 18px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+   }
+   .select{
+    font-family: Poppins;
+      font-size: 14px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+      margin-bottom: 5px;
+   }
+   .location{
+    width: 200px;
+      height: 25px;
+      border-radius: 6px;
+      border: solid 1px #8c96ab;
+      margin-bottom: 5px;
+   }
+   .input-options {
+      font-family: Poppins;
+      font-size: 14px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #8c96ab;
+  }
+  .sort{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .heading-image{
+    border-radius: 20px;    
+  margin-left: 25px;
+   margin-top: -75px;
+  }
+  .big-chill{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .fort{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .address{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+  .cusines2{
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left:25px;
+  }
+  .bakery-700{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .hr{
+      margin-bottom: 5px;
+     
+  }
+  .pagination{
+    display:inline-block;
+    margin-top: 25px;
+    font-size: 20px;
+    width: 380px;
+    margin-left: 40%;
+  }
+  .no-records {
+    color: red;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: oblique;
+    text-align: center;
+}
+
+.toggle-span {
+  float: right;
+  padding: 5px 0px 5px 0px;
+  display: none;
+}
+
+
+
+.pagination a {
+  color: gray;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  border: solid 1px gray;
+  border-radius: 15px;
+}

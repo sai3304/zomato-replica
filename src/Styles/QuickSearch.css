@@ -1,0 +1,55 @@
+.Quick-Searches {
+    width: 239px;
+    height: 43px;
+    margin: 48px 151px 7px 113px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60; 
+    
+  }
+  .discover{
+    width: 331px;
+    height: 25px;
+    margin: 7px 59px 33px 113px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    color: #8c96ab;
+    
+  }
+  
+  .Breakfast {
+    width: 88px;
+    height: 25px;
+   padding: 20px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .breakfastcontent {
+    width: 137px;
+    height: 62px;
+    margin-left: 20px;
+    padding-top: 10px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
